@@ -5,4 +5,3 @@ export function App() {
     </h1>
   )
 }
-
